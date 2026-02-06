@@ -1,7 +1,3 @@
-# 💫 About Me:
-🔭 I’m currently working on Algerian real estate platform messkan.com<br>🌱 I’m currently learning Node.js and React<br>💬 Ask me about Data Analytics
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/omar-el-farouk-gassem/) 
 
