@@ -11,7 +11,7 @@ I’ve worked as a **CIO**, **SAP Project Manager**, **Senior Consultant**, and 
 I work at the intersection of **SAP S/4HANA**, **development**, and **business transformation** — designing solutions, writing code, and leading teams from design to go-live.
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/omar-el-farouk-gassem/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-el-farouk-gassem/) 
 
 ## 🧠 What I Work On
 
